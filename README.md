@@ -1,2 +1,19 @@
-# Chat-App_VueJS
-Web chat app. built in Vue.js, this small project showing the functionality for SignIn/SignUp and Chat room, and the integrating the Firebase in the project.
+# livechat
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
